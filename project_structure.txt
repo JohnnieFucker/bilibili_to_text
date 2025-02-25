@@ -1,0 +1,7 @@
+bilibili_speech_to_text/
+├── requirements.txt
+├── config.py
+├── main.py
+├── bilibili_downloader.py
+├── speech_to_text.py
+└── .env 

@@ -1,0 +1,4 @@
+you-get
+azure-cognitiveservices-speech
+python-dotenv
+requests 
